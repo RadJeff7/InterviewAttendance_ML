@@ -6,3 +6,4 @@ The Interview Attendance Problem.
 
 Data is taken from : https://www.kaggle.com/vishnusraghavan/the-interview-attendance-problem
 
+This is a personal basic project to learn and implement the basics of Machine Learning.
